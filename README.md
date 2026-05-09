@@ -90,14 +90,28 @@ industrial-telemetry-pipeline/
 
 ---
 
+## Evidências do Projeto
+
+### Consulta no Amazon Athena
+
+![Athena Query](dashboards/01-athena-query-results.png)
+
+### Exemplos de cálculos
+
+![Calculo AVG](dashboards/02-avg-temperatura.png")
+
+### Análise de Equipamentos Críticos
+
+![Critical Analysis](dashboards/03-critical-equipment-analysis.png)
+
+---
+
 ## Próximos Passos
 
 - Integração com AWS Glue
 - Dashboard no QuickSight
 - Machine Learning para previsão de falhas
 - Alertas automatizados
-
----
 
 ## Autor
 
